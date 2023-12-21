@@ -8,11 +8,8 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
   - [Links](#links)
-- [My process](#my-process)
   - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 ## Overview
 
@@ -36,7 +33,7 @@ Users should be able to:
 - CSS
 - Mobile-first workflow
 
-### Author
+## Author
 
 - Website - [Manish Patel](https://manishpatel.tech)
 - Frontend Mentor - [@savvystrider](https://www.frontendmentor.io/profile/savvystrider)
